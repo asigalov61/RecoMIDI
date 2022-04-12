@@ -9,7 +9,7 @@
 ### Download here:
 
 ```
-!wget --no-check-certificate -O 'Morpheus-CLMP-Trained-Model.pth' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118557&authkey=ACG0zyLu5ENRhyU"
+!wget --no-check-certificate -O 'RecoMIDI-Trained-Model.pth' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118557&authkey=ACG0zyLu5ENRhyU"
 
 ```
 
